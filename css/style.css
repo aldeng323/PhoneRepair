@@ -153,6 +153,11 @@ img{
   border:0;
 }
 
+.contactlist a {
+  text-decoration: none;
+  color: #fff;
+}
+
 /* FOOTER */
 #main-footer{
   background:#56a79a;
